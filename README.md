@@ -31,7 +31,7 @@ npm install
 # serve with hot reload at localhost:8080
 npm run demo:dev
 
-# build for demo with minification
+# build for demo with minification [构建压缩]
 npm run demo:build
 
 # build for gh-pages with minification
